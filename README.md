@@ -1,6 +1,4 @@
-# [Cursea.net](http://cursea.net)
 ![Cursea.net](https://raw.githubusercontent.com/CAChemE/cursea/master/logo-w-python/cursea-logo.png)
-
 
 Red de cursos online para ingenieros y científicos
 
